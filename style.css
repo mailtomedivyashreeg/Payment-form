@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: auto;
+    height: fit-content;
+    align-items: center;
+    top: 0;
+    bottom: 100%;
+}
+h2{
+    font-weight: 100;
+    color: black;
+    margin-top: 50px;
+    margin-bottom:70px;
+    align-items: center;
+    padding-right:0%;
+    padding-left: 450px;
+}
+.nameoncard {
+    color: blue;
+    font-weight: 100;
+    padding-left:70px;
+
+}
+.nameoncard hr {
+    height: 4px;
+    background-color: blue;
+    
+}
+
+.emailaddress{
+      padding-left: 70px;
+      font-weight: 100;
+
+}
+.streetaddress{
+      padding-left: 70px;
+      font-weight: 100;
+
+}
+.Expiry{
+    padding-left: 70px;
+    font-weight: 300px;
+    padding-top: 10px;
+}
+.expirydate{
+    padding-left:550px;
+    margin-top: -40px;
+}
+.state{
+    padding-left:70px;
+    font-weight: 300;
+
+}
+.zipcode{
+    padding-left: 70px;
+    font-weight: 400;
+
+}
+.cancel{
+    padding-left: 70px;
+    font-weight: 300;
+    text-align: none;
+}
+.cancel h3{
+    padding-left: 500px;
+    padding-top:3dvb;
+}
+.submit{
+    padding-left:450px;
+    margin-top:-40px;    
+}
+.align-right{
+    text-align:left;
+    border: 0;
+    display: flex;
+}
+.button{
+    padding-top: -100px;
+    padding-left: 50px;
+    margin-top: -20px;/*it is used for moving the button top down */
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+    
+}
+
+
+
